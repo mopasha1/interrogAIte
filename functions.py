@@ -36,7 +36,7 @@ def add_eyewitness():
 def display(data: dict):
     st.header(data["Name"])
     try:
-        st.image(data["pic"])
+        st.image(data["pic"], width=200)
     except AttributeError:
         st.write("No picture provided")
         
