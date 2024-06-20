@@ -1,4 +1,6 @@
 # interrogAIte
+
+View the deployed application here: https://interrogaite.streamlit.app
 # Purpose
 
 People who have seen something happen and can give a first-hand description of it are referred to as "eyewitnesses". After an event (disaster, crime, etc.) has occurred, authorities find eyewitnesses to the event and gather their testimony. Often, the process of recording, analyzing and searching through the testimony of eyewitnesses for valuable information is a long and difficult task. Here is where InterrogAIte comes in.
