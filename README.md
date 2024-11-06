@@ -21,3 +21,31 @@ The main libraries used in this application are:
 # Examples
 
 For an example, the tool has been pre-loaded with the testimony of two eyewitnesses, who were present at the site of the assassination of U.S. President John F. Kennedy. Charles Givens, was one of the employees at the building from which the shots were fired and one of the last people to interact with the suspect Lee Harvey Oswald before the shooting. Arnold Rowland was one of the witnesses from the plaza where the shooting occurred, and he describes a "different" person he believes he saw in a window on the same floor where Lee Harvey Oswald is believed to have fired the shots from. Credits: LEMMiNO
+
+
+## <div align="center">Documentation 📄</div>
+
+<details open>
+<summary>Install</summary>
+
+Clone repo and install [requirements.txt]https://github.com/mopasha1/interrogAIte/blob/main/requirements.txt) 
+
+```bash
+git clone https://github.com/mopasha1/interrogAIte  # clone
+cd interrogAIte
+pip install -r requirements.txt  # install
+```
+</details>
+
+
+<details open>
+<summary>Running the application</summary>
+To test out the entire project after installation, run the following:
+
+In the transcribe_and_summarize file, replace the key with your AssemblyAI API Key.
+
+Running the Streamlit app
+```
+python -m streamlit run main.py
+```
+</details>
